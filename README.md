@@ -1,14 +1,14 @@
-# CodeSense AI v2.0 🚀
+# VeriCode : From Code review to Interview Readiness  🚀
 
-CodeSense AI is a next-generation static code analysis and evaluation suite designed to identify logic flaws, evaluate standard security vulnerabilities, detect runtime bottlenecks, and provide elegant refactored blueprints in real-time. 
+VeriCode is a next-generation static code analysis and evaluation suite designed to identify logic flaws, evaluate standard security vulnerabilities, detect runtime bottlenecks, and provide elegant refactored blueprints in real-time. 
 
-Integrating the full-stack performance of a **Node.js Express backend** with a beautiful, responsive **React 18 frontend** and **Monaco Editor components**, CodeSense AI is powered by the latest **Google Gemini models** utilizing an automated high-reliability dual-model failover mechanism.
+Integrating the full-stack performance of a **Node.js Express backend** with a beautiful, responsive **React 18 frontend** and **Monaco Editor components**, VeriCode is powered by the latest **Google Gemini models** utilizing an automated high-reliability dual-model failover mechanism.
 
 ---
 
 ## 🎨 Visual Preview & Design
 
-CodeSense AI features a theme meticulously styled around a sophisticated **Cyber Emerald Dark Palette (`#050807`)**. It transitions fluidly from a beautiful, feature-rich landing page into an immersive developer workspace containing responsive visual items:
+VeriCode features a theme meticulously styled around a sophisticated **Cyber Emerald Dark Palette (`#050807`)**. It transitions fluidly from a beautiful, feature-rich landing page into an immersive developer workspace containing responsive visual items:
 *   **Monaco Code Container**: Full-fidelity code editing matching industry-standard IDE behavior with automatic language tokenization, syntax highlights, and line markers.
 *   **CodeScore Radar Gauge**: An elegant real-time circular SVG animation mapping the generated `overallScore` (out of 100).
 *   **Segmented Insight Monitors**: Distinct indicators classifying defects, security risks, and optimization paths.
@@ -18,7 +18,7 @@ CodeSense AI features a theme meticulously styled around a sophisticated **Cyber
 
 ## 📋 Core System Requirements
 
-To build, test, and host CodeSense AI locally or in containerized cloud environments, ensure the following specifications are present:
+To build, test, and host VeriCode locally or in containerized cloud environments, ensure the following specifications are present:
 
 ### ⚙️ Minimum Software Versions
 *   **Node.js**: `v18.x` or higher (Long-Term Support recommended)
@@ -97,7 +97,7 @@ Follow these commands to deploy the app workspace locally:
 ### 1. Clone & Navigate
 ```bash
 git clone <repository-url>
-cd CodeSense
+cd VeriCode
 ```
 
 ### 2. Configure Environment Secrets
@@ -169,4 +169,4 @@ Submits raw client code to the backend router.
 
 ---
 
-*Developed with ❤️ using React, Tailwind CSS, Monaco Editor, Google Gemini, and Express.*
+
