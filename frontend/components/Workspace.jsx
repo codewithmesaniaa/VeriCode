@@ -209,9 +209,9 @@ export default function Workspace({ onBackToHome }) {
           <div className="h-6 w-px bg-[#11241e]" />
           
           <div className="flex items-center gap-2">
-            <div className="w-8 h-8 bg-emerald-600 rounded flex items-center justify-center font-bold text-slate-950 tracking-widest text-sm shadow-md shadow-emerald-950/30">C</div>
+            <div className="w-8 h-8 bg-emerald-600 rounded flex items-center justify-center font-bold text-slate-950 tracking-widest text-sm shadow-md shadow-emerald-950/30">V</div>
             <h1 className="text-xl font-bold tracking-tight text-slate-100">
-              CodeSense <span className="text-emerald-400 font-sans">AI</span>
+              VeriCode <span className="text-emerald-400 font-sans">AI</span>
             </h1>
             <span className="hidden sm:inline-block text-[9px] uppercase tracking-wider font-extrabold font-mono px-2 py-0.5 rounded-full bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
               v2.0

@@ -52,7 +52,7 @@ export default function LandingPage({ onLaunchWorkspace }) {
 
           {/* Description */}
           <p className="text-stone-400 text-base sm:text-lg font-normal leading-relaxed mb-10 max-w-2xl mx-auto font-sans">
-            CodeSense AI is a recruiter-friendly static code evaluation suite powered by Gemini models. Paste your source code, uncover critical vulnerabilities, and explore beautiful, production-ready refactors in seconds.
+            VeriCode is a recruiter-friendly static code evaluation suite powered by Gemini models. Paste your source code, uncover critical vulnerabilities, and explore beautiful, production-ready refactors in seconds.
           </p>
 
           {/* Call to Actions */}
@@ -89,7 +89,7 @@ export default function LandingPage({ onLaunchWorkspace }) {
               <span className="w-3 h-3 rounded-full bg-yellow-500/80 block" />
               <span className="w-3 h-3 rounded-full bg-green-500/80 block" />
             </div>
-            <div className="text-emerald-650/50 text-xs font-mono">codesense_review_workspace.jsx</div>
+            <div className="text-emerald-650/50 text-xs font-mono">vericode_review_workspace.jsx</div>
             <div className="w-12" />
           </div>
           <div className="p-4 grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -147,7 +147,7 @@ export default function LandingPage({ onLaunchWorkspace }) {
 
         {/* Recruiter Trust Footnote */}
         <div className="mt-32 border-t border-[#11241e] w-full pt-8 pb-4 flex flex-col sm:flex-row items-center justify-between text-stone-500 text-xs">
-          <div>CodeSense AI - Built for Recruiter Review (JavaScript & Google GenAI)</div>
+          <div>VeriCode - Built for Recruiter Review (JavaScript & Google GenAI)</div>
           <div className="mt-2 sm:mt-0 font-mono text-[10px] bg-[#060a08] border border-[#11241e] px-3 py-1.5 rounded-md text-emerald-400">
             Stack: Node, Express, Vite, React, Monaco, Tailwind
           </div>

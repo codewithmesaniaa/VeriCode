@@ -1,5 +1,4 @@
-
-# VeriCode : From Code review to Interview Readiness  🚀
+# VeriCode  🚀
 
 VeriCode is a next-generation static code analysis and evaluation suite designed to identify logic flaws, evaluate standard security vulnerabilities, detect runtime bottlenecks, and provide elegant refactored blueprints in real-time. 
 
@@ -170,4 +169,4 @@ Submits raw client code to the backend router.
 
 ---
 
-
+*Developed with ❤️ using React, Tailwind CSS, Monaco Editor, Google Gemini, and Express.*
