@@ -169,4 +169,3 @@ Submits raw client code to the backend router.
 
 ---
 
-*Developed with ❤️ using React, Tailwind CSS, Monaco Editor, Google Gemini, and Express.*
